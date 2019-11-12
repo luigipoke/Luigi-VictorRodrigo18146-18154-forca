@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1572981549 source:c:\users\aluno\desktop\luigi-victorrodrigo18146-18154-forca-versao-1\luigi-victorrodrigo18146-18154-forca-versao-1\jogoforca\main.c
+	<stdio.h>
+	<stdlib.h>
+	"forca.h"
+
+1572979261 c:\users\aluno\desktop\luigi-victorrodrigo18146-18154-forca-versao-1\luigi-victorrodrigo18146-18154-forca-versao-1\jogoforca\forca.h
+
+1572976385 c:\users\aluno\desktop\luigi-victorrodrigo18146-18154-forca-versao-1\luigi-victorrodrigo18146-18154-forca-versao-1\jogoforca\forca.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"forca.h"
+
+1572979293 source:c:\users\aluno\desktop\luigi-victorrodrigo18146-18154-forca-versao-1\luigi-victorrodrigo18146-18154-forca-versao-1\jogoforca\forca.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"forca.h"
+
+1573581582 source:d:\luigi-victorrodrigo18146-18154-forca-versao-1\luigi-victorrodrigo18146-18154-forca-versao-1\jogoforca\forca.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"forca.h"
+
+1573581618 d:\luigi-victorrodrigo18146-18154-forca-versao-1\luigi-victorrodrigo18146-18154-forca-versao-1\jogoforca\forca.h
+
+1573582442 source:d:\luigi-victorrodrigo18146-18154-forca-versao-1\luigi-victorrodrigo18146-18154-forca-versao-1\jogoforca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"forca.h"
+
